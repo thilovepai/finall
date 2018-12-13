@@ -1,0 +1,35 @@
+<app-content>
+    <form [formGroup]="form"(submit)="onSubmit()">
+      
+      <div class="row">
+        <label for="">รหัส</label>
+        <input type="text" class="form-control"  formControlName="custId">
+      </div>
+      <br>
+     
+
+      <div class="row">
+        <label for="">ชื่อ</label>
+        <input type="text" class="form-control"  formControlName="name">
+      </div>
+
+      <div class="row">
+     
+        <label for="">นามสกุล</label>
+        <input type="text" class="form-control"  formControlName="lastname">
+       
+      </div>
+      <div class="row">
+          <label for="">ประเภท</label>
+          <input type="text" class="form-control" formControlName="custType">
+        </div>
+
+         
+          <br>
+          <div class="pull-right">
+  
+              <button type="submit" class="btn btn-primary">บันทึก</button>
+            
+          </div>
+    </form>
+  </app-content>

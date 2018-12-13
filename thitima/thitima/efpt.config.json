@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"Kathi04Context","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Model","ProjectRootNamespace":"thitima","SelectedToBeGenerated":0,"Tables":["dbo.Table_Customer","dbo.Table_Product"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}

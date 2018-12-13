@@ -1,0 +1,13 @@
+D:\MVC2\thitima\thitima\bin\Debug\netcoreapp2.1\thitima.deps.json
+D:\MVC2\thitima\thitima\bin\Debug\netcoreapp2.1\thitima.runtimeconfig.json
+D:\MVC2\thitima\thitima\bin\Debug\netcoreapp2.1\thitima.runtimeconfig.dev.json
+D:\MVC2\thitima\thitima\bin\Debug\netcoreapp2.1\thitima.dll
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.csproj.CoreCompileInputs.cache
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.RazorAssemblyInfo.cache
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.RazorAssemblyInfo.cs
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.AssemblyInfoInputs.cache
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.AssemblyInfo.cs
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.RazorTargetAssemblyInfo.cache
+D:\MVC2\thitima\thitima\bin\Debug\netcoreapp2.1\thitima.pdb
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.dll
+D:\MVC2\thitima\thitima\obj\Debug\netcoreapp2.1\thitima.pdb
